@@ -1,4 +1,4 @@
-<!-- ANIMATED TYPING HEADER -->
+a<!-- ANIMATED TYPING HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5C6BC0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Cheru+%F0%9F%91%8B;Full-Stack+Engineer;Mobile+Developer;DevOps+%26+AI+Integrator" alt="Typing SVG" />
@@ -26,7 +26,7 @@ From designing robust backends and slick frontends to orchestrating Dockerized d
 
 <p align="center">
   <em>💼 Most of my professional work lives on <strong>GitLab</strong> — years of client‑based projects, private repositories, and team collaborations.<br>
-  This GitHub is where I open‑source my personal tools, experiments, and side projects like <strong>Backstop</strong>.</em>
+  This GitHub is where I open‑source my personal tools, experiments, and side projects </strong>.</em>
 </p>
 
 <p align="center">
@@ -164,4 +164,3 @@ From designing robust backends and slick frontends to orchestrating Dockerized d
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cheru864&color=5C6BC0&style=flat" alt="Profile views" />
 </p>
-a
