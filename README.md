@@ -65,8 +65,7 @@ An attentive coding companion that watches terminal and git activity, learns you
 
 ## <img src="https://api.iconify.design/lucide:server.svg?color=%232ECC71" width="24" align="absmiddle" /> Also in Production
 
-### <img src="https://api.iconify.design/lucide:rocket.svg?color=%232ECC71" width="20" align="absmiddle" /> [Backstop](https://backstop.up.railway.app) *(Live Project)*
-
+### <img src="https://api.iconify.design/lucide:rocket.svg?color=%232ECC71" width="20" align="absmiddle" /> Backstop
 A unified application monitoring layer that watches security posture, uptime, cost anomalies, and visual regressions so problems surface before customers hit them.
 
 * <img src="https://api.iconify.design/lucide:shield-check.svg?color=%232ECC71" width="16" align="absmiddle" /> **Security Scanning**: Automated posture monitoring and dependency vulnerability checks.
